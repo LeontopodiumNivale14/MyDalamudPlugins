@@ -1,22 +1,23 @@
 [
     {
-        "Author": "UcanPatates",
-        "Name": "GlobalTurnIn",
-        "Punchline": "Time to make some gill.",
-        "Description": "This Plugin will Automaticly turn in your Deltascape , Gordian and Alexandrian parts.",
-        "Tags": [
-            "automation",
-            "gill"
-        ],
-        "InternalName": "GlobalTurnIn",
-        "RepoUrl": "https://github.com/UcanPatatess/GlobalTurnIn",
-        "DownloadCount": 31,
-        "DownloadLinkInstall": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
+        "Author": "Ice (Lenopis)",
+        "Name": "Explorer's Icebox",
+        "Punchline": "What if, we held hands underneath the quartz mountain.",
+        "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
+		"Tags": [
+			"Island Sanctuary",
+			"Island",
+			"Sanctuary"
+		]
+        "InternalName": "ExplorersIcebox",
+        "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/LeontopodiumNivale14/MyDalamudPlugins/blob/main/Release/Explorer's%20Icebox/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/LeontopodiumNivale14/MyDalamudPlugins/blob/main/Release/Explorer's%20Icebox/latest.zip",
         "AssemblyVersion": "0.0.0.4",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
         "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/UcanPatatess/Sample/refs/heads/master/Data/UcanPatates.png"
+        "IconUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/blob/master/Data/icon.png"
     }
 ]
