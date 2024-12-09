@@ -18,6 +18,6 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
         "IsTestingExclusive": false,
-        "IconUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/blob/master/Data/icon.png"
+        "IconUrl": "https://raw.githubusercontent.com/LeontopodiumNivale14/Explorers-Icebox/refs/heads/master/Data/icon.png"
     }
 ]
