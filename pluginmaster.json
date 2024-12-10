@@ -1,7 +1,7 @@
 [
     {
         "Author": "Ice (Lenopis)",
-        "Name": "ExplorersIcebox",
+        "Name": "Explorer's Icebox",
         "Punchline": "What if, we held hands underneath the quartz mountain.",
         "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
 		"Tags": [
@@ -14,7 +14,7 @@
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/LeontopodiumNivale14/MyDalamudPlugins/raw/refs/heads/main/Release/ExplorersIcebox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/LeontopodiumNivale14/MyDalamudPlugins/raw/refs/heads/main/Release/ExplorersIcebox/latest.zip",
-        "AssemblyVersion": "0.0.0.9",
+        "AssemblyVersion": "1.0.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
         "IsTestingExclusive": false,
